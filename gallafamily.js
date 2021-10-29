@@ -1,2 +1,3 @@
 // testing pull operation using
-// fetch + re base
+// fetch + re base.. Fine
+// Lets do with Merge
